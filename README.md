@@ -36,6 +36,11 @@ This project is licensed under the MIT License.
 - DeepNira WeatherX Chrome Extension is developed by Ojasvi Mittal.
 - Weather data is fetched from the OpenWeather API.
 
+## ScreenShots
+<img width="324" alt="Screenshot 2024-02-08 at 6 52 34 PM" src="https://github.com/thecarlover/DeepNira-WeatherX-Chrome-Extension/assets/79406282/26c8678c-8a98-473f-b5d6-94d0e64e3099">
+<img width="322" alt="Screenshot 2024-02-08 at 6 52 52 PM" src="https://github.com/thecarlover/DeepNira-WeatherX-Chrome-Extension/assets/79406282/3c8e94b1-0eda-4a6e-99f3-7a660d7d8d1b">
+
+
 ## Feedback and Contributions
 Feedback, suggestions, and contributions are welcome! Feel free to open an issue or submit a pull request on GitHub.
 
