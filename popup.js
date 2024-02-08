@@ -1,7 +1,7 @@
 let result = document.getElementById("result");
 let searchBtn = document.getElementById("search-btn");
 let cityRef = document.getElementById("city");
-key="18a71332d35c4acfead89039ad4bb91c";
+key="YOUR_KEY";
 
 // Function to fetch weather details from API and display them
 let getWeather = () => {
